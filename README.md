@@ -29,15 +29,15 @@ The web app supports the following functionalities:
 2. The Top Movies section of the Dashboard dynamically generate movie genres based on data in the IMDB database.
 ![pic2](pic2.jpeg)
 
-3. When you click on one of the genres, a list of top 10 movies in that genre will be displayed,
-along with their ratings.
+3. When you click on one of the genres, a list of top 10 movies in that genre ordered primarily by rating and
+secondarily by vote count will be displayed.
 ![pic3](pic3.jpeg)
 
 4. In the Recommendations tab, you can enter the movie IDs of your 3 favorite movies and click Submit.
 ![pic4](pic4.jpeg)
 
 5. The web app will find out what is the majority genre among these 3 movies (each movie can have
-multiple genres) and will display the top 10 movies in that majority genre.
+multiple genres) and will display the top 10 movies by rating in that majority genre.
 ![pic5](pic5.jpeg)
 
 6. The Best of tab dynamically generates a drop-down menu of decades based on data in the IMDB database.
