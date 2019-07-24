@@ -1,17 +1,17 @@
 # MovieRecommendationWebApp
-Please follow the below instruction to run this project.
+Please follow the instructions below to run this project:
 
 1. Extract the zip file (NodeApp.zip)
 
 2. Open a new terminal window
 
-3. Type the following commands
+3. Type the following commands:
 
-cd NodeApp
+3.1. cd NodeApp
 
-npm install
+3.2. npm install
 
-node app
+3.3. node app
 
 The second command will install all the packages used in this project.
 
