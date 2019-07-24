@@ -13,3 +13,10 @@ To check if the server is actually running, open a browser and go to the followi
 http://localhost:8081
 
 ![pic1](pic1.jpeg)
+![pic2](pic2.jpeg)
+![pic3](pic3.jpeg)
+![pic4](pic4.jpeg)
+![pic5](pic5.jpeg)
+![pic6](pic6.jpeg)
+![pic7](pic7.jpeg)
+![pic8](pic8.jpeg)
