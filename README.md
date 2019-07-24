@@ -12,3 +12,4 @@ The third will run the server.
 To check if the server is actually running, open a browser and go to the following link
 http://localhost:8081
 
+![pic1](pic1.jpeg)
